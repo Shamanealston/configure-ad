@@ -77,6 +77,10 @@ Now that I've installed Active Directory, I created two Oraganizational units, o
 
 ![image](https://github.com/user-attachments/assets/19f75846-266b-49c1-aaa7-51cc9ed32388)
 
+
+
+These three screenshots show the process of me joing Client 1's virtual machine to the domain I created on the Domain Controller's virtual machine (mydomain.com). I first have to change Client 1's DNS server to match Domain Controller's. I have to do this because when I constructed Client 1's virtual machine, the vnet randomly assigned it a DNS server which doesn't know what "mydomain.com" is and won't allow Client 1 to join the domain I created. Now that both virtual machines have the same DNS server, Im allowed to make the connection now. I used windows setting to make Client 1 a member of the domain named "mydomain.com". 
+
 ![image](https://github.com/user-attachments/assets/189caba9-8bb1-4331-9af8-18d4f43271d2)
 
 
