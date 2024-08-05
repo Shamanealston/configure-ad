@@ -37,13 +37,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 In this screenshot, I chaged the "Domain Controller" virtual machine's NIC Private IP address to static so the IP address won't ever change regardless of any external factors. 
-</p>
-<br />
+
 
 ![image](https://github.com/user-attachments/assets/9640cb2b-cb10-4049-859a-3ec6599e6824)
 
 
+
 ![image](https://github.com/user-attachments/assets/40f54284-caef-4a3a-9f52-092421fcd76c)
+
+
+In the first screenshot shows that I have created two virtual machines in Azure; one being the Domain Controller and the other one named Client 1 which is essentially the desktop of a domain user that I will generate later. The second one shows that I have connected to both virtual machines via remote desktop by using thier IP addresses. I displayed their hostnames using the command prompt app.
 
 
 ![image](https://github.com/user-attachments/assets/6db4b9b3-c9d7-482a-b8bc-2a6e3be223dd)
