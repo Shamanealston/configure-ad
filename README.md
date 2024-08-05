@@ -87,4 +87,7 @@ These three screenshots show the process of me joing Client 1's virtual machine 
 ![image](https://github.com/user-attachments/assets/716fe5bf-6d93-4e49-9c44-f7b8771036db)
 
 
+Lastly, I granted access to "all domain users" which allows them to log on with any computer that is associated with mydomain.com. The second screenshot shows me using Powershell ISE to run a script that automatically generated 10,000 users. Each one of these users can log onto the domain I created with their username and "Password1"
+
+
 
