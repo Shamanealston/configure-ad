@@ -52,6 +52,8 @@ In the first screenshot shows that I have created two virtual machines in Azure;
 ![image](https://github.com/user-attachments/assets/6db4b9b3-c9d7-482a-b8bc-2a6e3be223dd)
 
 
+On the Domain Controller desktop, I used Windows Defender Firewall with Advanced Security to enable ICMPv4 rules to ensure the connectivity between Client 1 and Domain Controller servers. 
+
 ![image](https://github.com/user-attachments/assets/d4b98a37-3061-4f23-876b-7ec7cfeb6430)
 
 
