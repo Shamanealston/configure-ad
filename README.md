@@ -60,6 +60,8 @@ On the Domain Controller desktop, I used Windows Defender Firewall with Advanced
 ![image](https://github.com/user-attachments/assets/e4ede234-67b9-4221-90a2-339c0db1630b)
 
 
+The first screenshot shows me using Server Manager on the Domain controller's desktop to install Active Directory. The next screenshot shows me promoting Active Directory to a domain controller. 
+
 ![image](https://github.com/user-attachments/assets/e4791bb4-d89d-44df-a177-d62820e9be6d)
 
 ![image](https://github.com/user-attachments/assets/acbf8cc1-ac6e-4f90-9c2f-5915b983f39c)
