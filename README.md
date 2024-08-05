@@ -40,8 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-![image](https://github.com/user-attachments/assets/847cb362-2374-4f0b-9b13-df0dfe311d2c)
-
+![Image 8-5-24 at 10 46 AM](https://github.com/user-attachments/assets/36388662-229b-4c1b-b8e9-e0d58fe11652)
 /p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
