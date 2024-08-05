@@ -67,6 +67,8 @@ The first screenshot shows me using Server Manager on the Domain controller's de
 ![image](https://github.com/user-attachments/assets/acbf8cc1-ac6e-4f90-9c2f-5915b983f39c)
 
 
+Now that I've installed Active Directory, I created two Oraganizational units, one named _EMPLOYEES and the other named _ADMINS. I also created my first admin user, Jane Doe. I created her username and password so she can log into the domain. I also made her a member of Domanin Admins group. 
+
 ![image](https://github.com/user-attachments/assets/0b01bcbd-5145-4f76-9e8d-cd3e9edb92b2)
 
 
